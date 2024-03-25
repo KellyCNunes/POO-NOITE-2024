@@ -21,7 +21,7 @@ double soma = 0;
 for(int i = 0; i < vetP.Length; i++)
 {
     vetP[i].MostrarAtributos();
-    double total = vetP[i].ValorTotalEmEstoque()
+    double total = vetP[i].ValorTotalEmEstoque();
     Console.WriteLine($"Total{total:c}");
     soma = soma + total;
 }

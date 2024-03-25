@@ -3,7 +3,7 @@
 using ClasseConta;
 
 Conta objetoConta; //declarar variável
-objetoConta = new Conta();//instância de objeto
+objetoConta = new Conta();//instância de objeto (new blabla ("pode ou não ter conteudo)) criar uma variavel que representa a class
 objetoConta.numero = 1;
 objetoConta.titular = "Paul";
 objetoConta.saldo = 100.57;

@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.exe
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\refint\ConstrutorProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\ConstrutorProduto\obj\Debug\net6.0\ref\ConstrutorProduto.dll
