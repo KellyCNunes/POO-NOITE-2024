@@ -11,7 +11,7 @@ namespace AgregacaoConta
         public int Numero { get; set; }
         public string Cidade { get; set; }
 
-        public Endereco ( string l, string n, string c)
+        public Endereco ( string l, int n, string c)
         {
             Logradouro =l;
             Numero = n;

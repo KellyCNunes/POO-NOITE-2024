@@ -26,7 +26,7 @@ namespace ConstrutorAluno
 
         //private static int proximaMatricula = 1;
 
-        public int Matricula { get; }
+        public string Matricula { get; }
         public string Nome { get; set; }
         public double P1 { get; set; }
         public double P2 { get; set; }

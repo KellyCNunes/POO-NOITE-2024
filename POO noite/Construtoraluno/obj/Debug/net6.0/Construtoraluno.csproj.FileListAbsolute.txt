@@ -3,3 +3,13 @@ C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Deb
 C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\Construtoraluno.AssemblyInfoInputs.cache
 C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\Construtoraluno.AssemblyInfo.cs
 C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\Construtoraluno.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\bin\Debug\net6.0\Construtoraluno.exe
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\bin\Debug\net6.0\Construtoraluno.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\bin\Debug\net6.0\Construtoraluno.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\bin\Debug\net6.0\Construtoraluno.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\bin\Debug\net6.0\Construtoraluno.pdb
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\Construtoraluno.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\refint\Construtoraluno.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\Construtoraluno.pdb
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\Construtoraluno.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\Construtoraluno\obj\Debug\net6.0\ref\Construtoraluno.dll
