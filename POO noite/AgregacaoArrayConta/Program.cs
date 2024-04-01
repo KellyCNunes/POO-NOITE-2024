@@ -17,5 +17,5 @@ for(int i=0; i<3; i++)
 }
 
 c1.Mostrar();
-foreach(Cliente c in c1.VetTitulares)
+foreach(Cliente c in c1.VetTitulares)  //foreach 
     c.Mostrar();

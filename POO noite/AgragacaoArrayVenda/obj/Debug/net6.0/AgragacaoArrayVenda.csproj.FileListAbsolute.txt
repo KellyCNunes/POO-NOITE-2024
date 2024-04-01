@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\AgragacaoArrayVenda\obj\Debug\net6.0\AgragacaoArrayVenda.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\AgragacaoArrayVenda\obj\Debug\net6.0\AgragacaoArrayVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\AgragacaoArrayVenda\obj\Debug\net6.0\AgragacaoArrayVenda.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\AgragacaoArrayVenda\obj\Debug\net6.0\AgragacaoArrayVenda.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\POO noite\AgragacaoArrayVenda\obj\Debug\net6.0\AgragacaoArrayVenda.csproj.CoreCompileInputs.cache
