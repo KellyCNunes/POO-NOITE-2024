@@ -8,10 +8,6 @@ namespace AgragacaoArrayVenda
     public class Vendedor
     {
         public double Comissao { get; set; }
-        public Vendedor(double comissao)
-        {
-            Comissao = comissao;
-        }
         public void Mostrar() 
         {
             Console.WriteLine("Comissão: " + Comissao);

@@ -1,8 +1,10 @@
 ﻿
 using AgragacaoArrayVenda;
 
-Vendedor ve = new Vendedor(0.02);
+Vendedor ve = new Vendedor();
+ve.Mostrar();
 Comprador co = new Comprador(2000);
+co.Mostrar();
 Venda v1 = new Venda();
 v1.vend = ve;
 v1.comp = co;
@@ -16,62 +18,25 @@ for(int i=0; i<3; i++)
     Produto p1 = new Produto();
     System.Console.WriteLine("Informe o nome: ");
     p1.Nome = Console.ReadLine();
-    System.Console.WriteLine("Informe o preço {i + 1}: ");
-    p1.Preco = Console.ReadLine();
+
+    System.Console.WriteLine($"Informe o preço {i + 1}: ");
+    p1.Preco = Convert.ToInt32(Console.ReadLine());
+
     System.Console.WriteLine("Informe o código: ");
-    p1.Codigo = Console.ReadLine();
-
-    
-    v1.vetProd[i] = p1.Preco;
-
-    double soma = SomarPrecos(p1.Preco);
-       Console.WriteLine("A soma dos preços é: " + soma);
+    p1.Codigo = Convert.ToInt32(Console.ReadLine());
+    v1.vetProd.Add(p1);
 
 
-    static double SomarPrecos(double[] precos)
-   {
-        double soma = 0;
-        foreach (double preco in precos)
-       {
-            soma += preco;
-       }
-            return soma;
-   }
-
-    //v1.vetProd.Add(p1);
 }
+    
+    foreach(Produto p in v1.vetProd)
+          p.Mostrar();
 
-//double soma = 0;
-//for (int i = 0; i < v1.Length; i++)
-
-
-
-
-
+     v1.calcularComissao();
+     v1.debitarCompra();
 
 
 
-//v1.Mostrar();
-//foreach(Venda v in v1.vetProd)  //foreach 
-    //v.Mostrar();
 
 
-
-   // Console.WriteLine($"Digite o preço {i + 1}:");
-           // double preco = double.Parse(Console.ReadLine());
-            //precos[i] = preco;
-       // }
-
-        //double soma = SomarPrecos(precos);
-       // Console.WriteLine("A soma dos preços é: " + soma);
-   // }
-
-    //static double SomarPrecos(double[] precos)
-   // {
-        //double soma = 0;
-       // foreach (double preco in precos)
-       // {
-         //   soma += preco;
-       // }
-        //return soma;
-  //  }
+   

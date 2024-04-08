@@ -15,6 +15,32 @@ namespace AgragacaoArrayVenda
         {
             Console.WriteLine("Comprador: " + comp + "\tVendedor: " + vend);
         }
+         
+        public void calcularComissao()
+        {
+            double totalVenda = 0;
+            foreach (Produto p in vetProd)
+            {
+                totalVenda += p.Preco;
+            }
 
-    }
+            double comissao = totalVenda * 0.02;
+            Console.WriteLine($"Comissão: {comissao}");
+        }
+
+        public void debitarCompra()
+        {
+            double totalVenda = 0;
+            foreach (Produto p in vetProd)
+            {
+                totalVenda += p.Preco;
+            }
+
+            double verba = 1600; // verba
+
+            verba -= totalVenda;
+            Console.WriteLine($"Verba restante após compra: {verba}");
+     
+        }
+    } 
 }
